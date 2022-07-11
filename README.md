@@ -8,5 +8,5 @@ Before designing the dashboard, these were the processes I took:
 • Selection of KPIs 
 • Collection of Data : The dataset used for this dashboard is a free dataset from kaggle.com
 • Data Cleaning
-• Data Modelling (I worked with 3 different tables in a CSV sheet, the relationships between the tables the tables were performed in Tableau Public
+• Data Modelling (I worked with 3 different tables in a CSV sheet, data was modelled in Tableau Public)
          ![image](https://user-images.githubusercontent.com/51289316/178252321-2b3910f0-a36e-47f0-996a-c10875700f04.png)
