@@ -12,4 +12,6 @@ Before designing the dashboard, these were the processes I took:
 • Data Modelling (I worked with 3 different tables in a CSV sheet, data was modelled in Data Studio) 
 ![image](https://user-images.githubusercontent.com/51289316/178504888-272ac566-b2a0-46a6-901d-b85a6b0d2f89.png)![image](https://user-images.githubusercontent.com/51289316/178505039-4f6401d5-cb17-4b97-bff0-aa6548366e00.png)
 
-View interactive report here: https://datastudio.google.com/s/pI4B_Ku-f5w
+View interactive report here: https://datastudio.google.com/reporting/a865116c-b80a-4b38-9137-e90a79a167a3
+
+
