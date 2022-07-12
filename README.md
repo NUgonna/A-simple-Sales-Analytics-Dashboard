@@ -11,3 +11,5 @@ Before designing the dashboard, these were the processes I took:
 • Data Cleaning
 • Data Modelling (I worked with 3 different tables in a CSV sheet, data was modelled in Tableau Public) 
 ![image](https://user-images.githubusercontent.com/51289316/178252321-2b3910f0-a36e-47f0-996a-c10875700f04.png)
+
+View interactive report here: https://datastudio.google.com/s/pI4B_Ku-f5w
