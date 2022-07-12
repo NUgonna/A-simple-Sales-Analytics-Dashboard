@@ -4,9 +4,17 @@ The purpose of creating a dashboard is to give a quick overview of specific KPIs
 
 Furthermore, bikes contribute approximately 96% of the overall sales from 2018 to mid-2020, and the company's major markets are the United States and Australia, each contributing 31.7% and 29.5% respectively to overall sales.
 
+
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/a865116c-b80a-4b38-9137-e90a79a167a3/page/ZrXxC" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 Before designing the dashboard, these were the processes I took: 
 • Selection of KPIs 
 • Collection of Data : The dataset used for this dashboard is a free dataset from kaggle.com
 • Data Cleaning
-• Data Modelling (I worked with 3 different tables in a CSV sheet, data was modelled in Tableau Public)
+• Data Modelling (I worked with 3 different tables in a CSV sheet, data was modelled in Tableau Public) 
+
+
+
+   
          ![image](https://user-images.githubusercontent.com/51289316/178252321-2b3910f0-a36e-47f0-996a-c10875700f04.png)
