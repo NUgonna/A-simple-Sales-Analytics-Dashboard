@@ -1,6 +1,6 @@
 # Sales Analytics Dashboard
 
-The purpose of creating a dashboard is to give a quick overview of specific KPIs used to measure the performance of a project/ a process/a company. The sales analytics dashboard below provides a unified view of sales for a certain company across three years (January 2018 - July 2020). The first tile on the dashboard shows the revenue of the company in the current year (2020). The semi-annual revenue growth is up by 94.6% within the same period from the previous year. 
+The purpose of creating a dashboard is to give a quick overview of specific KPIs used to measure the performance of a project/ a process/a company. The sales analytics dashboard below provides a unified view of sales for a certain company across three years (January 2018 - June 2020). The first tile on the dashboard shows the revenue of the company in the current year (2020). The semi-annual revenue growth is up by 94.6% within the same period from the previous year. 
 
 Furthermore, bikes contribute approximately 96% of the overall sales from 2018 to mid-2020, and the company's major markets are the United States and Australia, each contributing 31.7% and 29.5% respectively to overall sales.
 
