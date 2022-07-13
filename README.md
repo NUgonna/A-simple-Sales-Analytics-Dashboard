@@ -1,4 +1,4 @@
-#Project 1:  Sales Analytics Dashboard
+# Project 1:  Sales Analytics Dashboard
 
 The purpose of creating a dashboard is to give a quick overview of specific KPIs used to measure the performance of a project/ a process/a company. The sales analytics dashboard below provides a unified view of sales for a certain company across three years (January 2018 - June 2020). The first tile on the dashboard shows the revenue of the company in the current year (2020). The semi-annual revenue growth is up by 94.6% within the same period from the previous year. 
 
